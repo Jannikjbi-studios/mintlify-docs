@@ -38,21 +38,93 @@
             ]
           },
           {
-            "group": "Beispielspiel 1",
+            "group": "Landwirtschafts-Simulator 25",
+            "icon": "tractor",
             "pages": [
-              "spiele/beispielspiel-1/uebersicht",
-              "spiele/beispielspiel-1/basics",
-              "spiele/beispielspiel-1/tipps",
-              "spiele/beispielspiel-1/bosse",
-              "spiele/beispielspiel-1/builds"
+              "spiele/ls25/uebersicht",
+              "spiele/ls25/basics",
+              "spiele/ls25/tipps"
             ]
           },
           {
-            "group": "Beispielspiel 2",
+            "group": "Fairground Online",
+            "icon": "ferris-wheel",
             "pages": [
-              "spiele/beispielspiel-2/uebersicht",
-              "spiele/beispielspiel-2/basics",
-              "spiele/beispielspiel-2/crafting"
+              "spiele/fairground-online/uebersicht",
+              "spiele/fairground-online/basics",
+              "spiele/fairground-online/tipps"
+            ]
+          },
+          {
+            "group": "King of Retail 2",
+            "icon": "cash-register",
+            "pages": [
+              "spiele/king-of-retail-2/uebersicht",
+              "spiele/king-of-retail-2/basics",
+              "spiele/king-of-retail-2/tipps"
+            ]
+          },
+          {
+            "group": "Train Sim World 4",
+            "icon": "train",
+            "pages": [
+              "spiele/tsw4/uebersicht",
+              "spiele/tsw4/basics",
+              "spiele/tsw4/tipps"
+            ]
+          },
+          {
+            "group": "City Transport Simulator 2026",
+            "icon": "bus",
+            "pages": [
+              "spiele/city-transport-2026/uebersicht",
+              "spiele/city-transport-2026/basics",
+              "spiele/city-transport-2026/tipps"
+            ]
+          },
+          {
+            "group": "Mail Simulator",
+            "icon": "envelope",
+            "pages": [
+              "spiele/mail-simulator/uebersicht",
+              "spiele/mail-simulator/basics",
+              "spiele/mail-simulator/tipps"
+            ]
+          },
+          {
+            "group": "Megastore Simulator",
+            "icon": "store",
+            "pages": [
+              "spiele/megastore/uebersicht",
+              "spiele/megastore/basics",
+              "spiele/megastore/tipps"
+            ]
+          },
+          {
+            "group": "Seafarer: The Ship Sim",
+            "icon": "ship",
+            "pages": [
+              "spiele/seafarer/uebersicht",
+              "spiele/seafarer/basics",
+              "spiele/seafarer/tipps"
+            ]
+          },
+          {
+            "group": "Supermarket Together",
+            "icon": "basket-shopping",
+            "pages": [
+              "spiele/supermarket-together/uebersicht",
+              "spiele/supermarket-together/basics",
+              "spiele/supermarket-together/tipps"
+            ]
+          },
+          {
+            "group": "Winter Resort Simulator 2",
+            "icon": "snowflake",
+            "pages": [
+              "spiele/winter-resort-2/uebersicht",
+              "spiele/winter-resort-2/basics",
+              "spiele/winter-resort-2/tipps"
             ]
           }
         ]
